@@ -24,7 +24,7 @@
 
 <h3>Project One -  Universal Survey - Online Survey Platform </h3>
 <p>Shop seamlessly online for curated goods and personalized experiences.</p>
-<p>Live Link: <a target="_blank" href="https://assignment-10-qdr7fqint-aadelbanat8991-gmailcom.vercel.app/">https://assignment-10-qdr7fqint-aadelbanat8991-gmailcom.vercel.app/</a></p>
+<p>Live Link: <a target="_blank" href="https://universal-server-front-end.vercel.app">https://universal-server-front-end.vercel.app</a></p>
 
 <h3>Project Two -  WanderWise</h3>
 <p>Discover adventures: your journey, your way, effortlessly explored.</p>
