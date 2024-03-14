@@ -1,4 +1,4 @@
-<div style="width: 100%;"> <img style="width: 100%" src="./Dark Subtle Lifestyle Blog LinkedIn Article Cover Image.mp4" alt="anamaadel" /> </div>
+<div style="width: 100%;"> <img style="width: 100%" src="./portfolioBanner.gif" alt="anamaadel" /> </div>
 
 <h1 align="center">Hi 👋, I'm Anamul Amin</h1>
 <h3 align="center">A dedicated front-end coder from Bangladesh.</h3>
